@@ -6,15 +6,6 @@
 🧠 Strong interest in DSA, system design, and scalable applications
 ⚡ Focused on writing clean, maintainable, and efficient code
 
-🔹 What I’m working on
-
-🌐 Full-stack web applications
-
-🎨 Frontend interfaces with solid backend logic
-
-🧩 Data Structures & problem solving (C++)
-
-🔧 Improving code quality, performance, and architecture
 
 🔹 What defines me
 
