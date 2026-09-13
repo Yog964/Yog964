@@ -3,7 +3,7 @@
        alt="Profile Views"
        width="180" />
 </p>
-## 👋 **Hi, I’m Sushant Bari**
+<h1 align="left"><strong>👋 Hi, I’m Sushant Bari</strong></h1>
 
 🚀 Computer Science student & Full-Stack Developer
 💻 Working across Frontend + Backend technologies
@@ -23,59 +23,184 @@
 <a href="https://leetcode.com/spb25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spb25" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+</a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/>
+</a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/>
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
+</a>
 </p>
 
+
+<h3 align="left">Frameworks & Libraries:</h3>
+
+<p align="left">
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40"/>
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
+</a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
+</a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" width="40" height="40"/>
+</a>
+</p>
+
+
+<h3 align="left">Databases:</h3>
+
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
+</a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
+</a>
+</p>
+
+
+<h3 align="left">Cloud & DevOps:</h3>
+
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/>
+</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+</a>
+</p>
+
+
+<h3 align="left">Tools & Platforms:</h3>
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+</a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" height="40"/>
+</a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/>
+</a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
+</a>
+<a href="https://ollama.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="40" height="40"/>
+</a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="40" height="40"/>
+</a>
+</p>
+
+
+<h3 align="left">Data Science & Visualization:</h3>
+
+<p align="left">
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
+</a>
+<a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="40" height="40"/>
+</a>
+</p>
 
 # 🗓️ Contributions:
 
