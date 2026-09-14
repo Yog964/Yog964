@@ -53,127 +53,134 @@
 
 ---
 ---
+## 🛠️ Tech Stack
+
 <table>
 <tr>
 
-<!-- ================= LEFT COLUMN ================= -->
+<!-- ================= ROW 1, COL 1: Languages ================= -->
 <td width="50%" valign="top">
-
-# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<table>
+<table width="100%">
   <tr align="center">
-    <td width="16.6%"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++"/></a><br><sub><b>C++</b></sub></td>
-    <td width="16.6%"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java"/></a><br><sub><b>Java</b></sub></td>
-    <td width="16.6%"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python"/></a><br><sub><b>Python</b></sub></td>
-    <td width="16.6%"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript"/></a><br><sub><b>JS</b></sub></td>
-    <td width="16.6%"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript"/></a><br><sub><b>TS</b></sub></td>
-    <td width="16.6%"><a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="36" height="36" alt="Dart"/></a><br><sub><b>Dart</b></sub></td>
+    <td width="33.3%"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/></a><br><sub><b>C++</b></sub></td>
+    <td width="33.3%"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/></a><br><sub><b>Java</b></sub></td>
+    <td width="33.3%"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python"/></a><br><sub><b>Python</b></sub></td>
   </tr>
   <tr align="center">
-    <td><a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" width="36" height="36" alt="Kotlin"/></a><br><sub><b>Kotlin</b></sub></td>
-    <td><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="36" height="36" alt="PHP"/></a><br><sub><b>PHP</b></sub></td>
-    <td><a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5"/></a><br><sub><b>HTML5</b></sub></td>
-    <td><a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3"/></a><br><sub><b>CSS3</b></sub></td>
-    <td colspan="2"></td>
-  </tr>
-</table>
-
-### ⚙️ Frameworks & Libraries
-
-<table>
-  <tr align="center">
-    <td width="16.6%"><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring"/></a><br><sub><b>Spring</b></sub></td>
-    <td width="16.6%"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React"/></a><br><sub><b>React</b></sub></td>
-    <td width="16.6%"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js"/></a><br><sub><b>Next.js</b></sub></td>
-    <td width="16.6%"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Node.js"/></a><br><sub><b>Node.js</b></sub></td>
-    <td width="16.6%"><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="Express"/></a><br><sub><b>Express</b></sub></td>
-    <td width="16.6%"><a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI"/></a><br><sub><b>FastAPI</b></sub></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="36" height="36" alt="Flask"/></a><br><sub><b>Flask</b></sub></td>
-    <td><a href="https://djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django"/></a><br><sub><b>Django</b></sub></td>
-    <td><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="36" height="36" alt="Flutter"/></a><br><sub><b>Flutter</b></sub></td>
-    <td><a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="36" height="36" alt="OpenCV"/></a><br><sub><b>OpenCV</b></sub></td>
-    <td><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="PyTorch"/></a><br><sub><b>PyTorch</b></sub></td>
-    <td><a href="https://tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TensorFlow"/></a><br><sub><b>TensorFlow</b></sub></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="36" height="36" alt="Scikit-Learn"/></a><br><sub><b>Sklearn</b></sub></td>
-    <td colspan="5"></td>
-  </tr>
-</table>
-
-### 🗄️ Databases
-
-<table>
-  <tr align="center">
-    <td width="16.6%"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL"/></a><br><sub><b>MySQL</b></sub></td>
-    <td width="16.6%"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL"/></a><br><sub><b>Postgres</b></sub></td>
-    <td width="16.6%"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB"/></a><br><sub><b>MongoDB</b></sub></td>
-    <td width="16.6%"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="36" height="36" alt="SQLite"/></a><br><sub><b>SQLite</b></sub></td>
-    <td width="16.6%"><a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis"/></a><br><sub><b>Redis</b></sub></td>
-    <td width="16.6%"></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a><br><sub><b>JavaScript</b></sub></td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/></a><br><sub><b>TypeScript</b></sub></td>
+    <td><a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a><br><sub><b>HTML/CSS</b></sub></td>
   </tr>
 </table>
 
 </td>
 
-<!-- ================= RIGHT COLUMN ================= -->
+<!-- ================= ROW 1, COL 2: Frameworks ================= -->
+<td width="50%" valign="top">
+
+### ⚙️ Frameworks & Libraries
+
+<table width="100%">
+  <tr align="center">
+    <td width="33.3%"><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot"/></a><br><sub><b>Spring Boot</b></sub></td>
+    <td width="33.3%"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a><br><sub><b>React</b></sub></td>
+    <td width="33.3%"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/></a><br><sub><b>Next.js</b></sub></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/></a><br><sub><b>Node.js</b></sub></td>
+    <td><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/></a><br><sub><b>Express</b></sub></td>
+    <td><a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/></a><br><sub><b>FastAPI</b></sub></td>
+  </tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<!-- ================= ROW 2, COL 1: Databases ================= -->
+<td width="50%" valign="top">
+
+### 🗄️ Databases & Caching
+
+<table width="100%">
+  <tr align="center">
+    <td width="33.3%"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a><br><sub><b>MySQL</b></sub></td>
+    <td width="33.3%"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/></a><br><sub><b>PostgreSQL</b></sub></td>
+    <td width="33.3%"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/></a><br><sub><b>MongoDB</b></sub></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/></a><br><sub><b>Redis</b></sub></td>
+    <td><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/></a><br><sub><b>SQLite</b></sub></td>
+    <td><a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="Kafka"/></a><br><sub><b>Kafka</b></sub></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- ================= ROW 2, COL 2: Cloud & DevOps ================= -->
 <td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
 
-<table>
+<table width="100%">
   <tr align="center">
-    <td width="16.6%"><a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS"/></a><br><sub><b>AWS</b></sub></td>
-    <td width="16.6%"><a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker"/></a><br><sub><b>Docker</b></sub></td>
-    <td width="16.6%"><a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="36" height="36" alt="Kubernetes"/></a><br><sub><b>K8s</b></sub></td>
-    <td width="16.6%"><a href="https://jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="36" height="36" alt="Jenkins"/></a><br><sub><b>Jenkins</b></sub></td>
-    <td width="16.6%"><a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" width="36" height="36" alt="Kafka"/></a><br><sub><b>Kafka</b></sub></td>
-    <td width="16.6%"><a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="36" height="36" alt="Azure"/></a><br><sub><b>Azure</b></sub></td>
+    <td width="33.3%"><a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/></a><br><sub><b>AWS</b></sub></td>
+    <td width="33.3%"><a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/></a><br><sub><b>Docker</b></sub></td>
+    <td width="33.3%"><a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes"/></a><br><sub><b>Kubernetes</b></sub></td>
   </tr>
   <tr align="center">
-    <td><a href="https://linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux"/></a><br><sub><b>Linux</b></sub></td>
-    <td colspan="5"></td>
+    <td><a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure"/></a><br><sub><b>Azure</b></sub></td>
+    <td><a href="https://jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/></a><br><sub><b>Jenkins</b></sub></td>
+    <td><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/></a><br><sub><b>Linux</b></sub></td>
   </tr>
 </table>
+
+</td>
+</tr>
+
+<tr>
+<!-- ================= ROW 3, COL 1: Tools & Platforms ================= -->
+<td width="50%" valign="top">
 
 ### 🧰 Tools & Platforms
 
-<table>
+<table width="100%">
   <tr align="center">
-    <td width="16.6%"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git"/></a><br><sub><b>Git</b></sub></td>
-    <td width="16.6%"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub"/></a><br><sub><b>GitHub</b></sub></td>
-    <td width="16.6%"><a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="36" height="36" alt="Postman"/></a><br><sub><b>Postman</b></sub></td>
-    <td width="16.6%"><a href="https://jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" width="36" height="36" alt="IntelliJ"/></a><br><sub><b>IntelliJ</b></sub></td>
-    <td width="16.6%"><a href="https://arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="36" height="36" alt="Arduino"/></a><br><sub><b>Arduino</b></sub></td>
-    <td width="16.6%"><a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="36" height="36" alt="Android Studio"/></a><br><sub><b>Android</b></sub></td>
+    <td width="33.3%"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a><br><sub><b>Git</b></sub></td>
+    <td width="33.3%"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/></a><br><sub><b>GitHub</b></sub></td>
+    <td width="33.3%"><a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/></a><br><sub><b>Postman</b></sub></td>
   </tr>
   <tr align="center">
-    <td><a href="https://ollama.com/"><img src="https://skillicons.dev/icons?i=ollama" width="36" height="36" alt="Ollama"/></a><br><sub><b>Ollama</b></sub></td>
-    <td><a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="36" height="36" alt="Streamlit"/></a><br><sub><b>Streamlit</b></sub></td>
-    <td colspan="4"></td>
-  </tr>
-</table>
-
-### 📊 Data Science & Visualization
-
-<table>
-  <tr align="center">
-    <td width="16.6%"><a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="36" height="36" alt="NumPy"/></a><br><sub><b>NumPy</b></sub></td>
-    <td width="16.6%"><a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="36" height="36" alt="Pandas"/></a><br><sub><b>Pandas</b></sub></td>
-    <td width="16.6%"><a href="https://matplotlib.org/"><img src="https://skillicons.dev/icons?i=matlab" width="36" height="36" alt="Matplotlib"/></a><br><sub><b>Matplotlib</b></sub></td>
-    <td width="16.6%"><a href="https://seaborn.pydata.org/"><img src="https://skillicons.dev/icons?i=seaborn" width="36" height="36" alt="Seaborn"/></a><br><sub><b>Seaborn</b></sub></td>
-    <td width="16.6%"><a href="https://chartjs.org/"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="36" height="36" alt="Chart.js"/></a><br><sub><b>Chart.js</b></sub></td>
-    <td width="16.6%"></td>
+    <td><a href="https://jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="IntelliJ IDEA"/></a><br><sub><b>IntelliJ</b></sub></td>
+    <td><a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio"/></a><br><sub><b>Android</b></sub></td>
+    <td><a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino"/></a><br><sub><b>Arduino</b></sub></td>
   </tr>
 </table>
 
 </td>
 
+<!-- ================= ROW 3, COL 2: AI & Data Science ================= -->
+<td width="50%" valign="top">
+
+### 🧠 AI & Data Science
+
+<table width="100%">
+  <tr align="center">
+    <td width="33.3%"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/></a><br><sub><b>PyTorch</b></sub></td>
+    <td width="33.3%"><a href="https://tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/></a><br><sub><b>TensorFlow</b></sub></td>
+    <td width="33.3%"><a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn"/></a><br><sub><b>Scikit-Learn</b></sub></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV"/></a><br><sub><b>OpenCV</b></sub></td>
+    <td><a href="https://ollama.com/"><img src="https://skillicons.dev/icons?i=ollama" width="40" height="40" alt="Ollama"/></a><br><sub><b>Ollama</b></sub></td>
+    <td><a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit"/></a><br><sub><b>Streamlit</b></sub></td>
+  </tr>
+</table>
+
+</td>
 </tr>
 </table>
 ---
