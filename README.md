@@ -15,76 +15,43 @@
 </p>
 
 ---
-<table>
-<tr>
 
-<td width="35%" valign="top">
-
-## 🧑‍💻 About Me
-
-🚀 Computer Science student & Full-Stack Developer  
-💻 Working across Frontend + Backend technologies  
-🛠️ I genuinely love debugging code and solving complex issues  
-🧠 Strong interest in DSA, system design, and scalable applications  
-⚡ Focused on writing clean, maintainable, and efficient code
-
-### 🔗 Connect With Me
-
-<p>
-<a href="https://github.com/Yog964">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/sushant-bari-66185a371">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-</a>
-<a href="https://youtube.com/@Aristos_2">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-</a>
-<a href="https://codeforces.com/profile/spb25">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
-</a>
-<a href="https://leetcode.com/spb25">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-</a>
-  
+<p align="center">
+  <big><b>🌐 Portfolio:</b></big> 
+  <a href="https://sushant-bari.vercel.app/">
+    <b>🔗 https://sushant-bari.vercel.app/</b>
+  </a>
 </p>
 
+<h3 align="center">🔗 Connect With Me</h3>
 
-## 🌐 Portfolio
-
-<p>
-<a href="https://sushant-bari.vercel.app/">
-  <strong>🔗 https://sushant-bari.vercel.app/</strong>
-</a>
+<p align="center">
+  <a href="https://github.com/Yog964">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/sushant-bari-66185a371">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+  </a>
+  <a href="https://youtube.com/@Aristos_2">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/spb25">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/spb25">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
 </p>
 
-<p>
-A place where I showcase my projects, technical skills, experience, and development journey.
-</p>
-
-</td>
-
-<td width="%" valign="top">
-
-## 🔥 GitHub Activity
+<h3 align="center">🔥 GitHub Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yog964"
        alt="GitHub Streak"
-       width="100%"/>
+       width="480"/>
 </p>
 
-<p align="center">
-  <img src="./contributions-calendar.svg"
-       alt="GitHub Contributions"
-       width="100%"/>
-</p>
-
-</td>
-
-</tr>
-</table>
-
+---
 ---
 <table>
 <tr>
