@@ -25,23 +25,42 @@
 
 <h3 align="center">🔗 Connect With Me</h3>
 
-<p align="center">
-  <a href="https://github.com/Yog964">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
-  </a>
-  <a href="https://twitter.com/sushant-bari-66185a371">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://youtube.com/@Aristos_2">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/spb25">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/spb25">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr align="center">
+      <td width="70">
+        <a href="https://github.com/Yog964">
+          <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
+        </a><br>
+        <sub><small><b>GitHub</b></small></sub>
+      </td>
+      <td width="70">
+        <a href="https://twitter.com/sushant-bari-66185a371">
+          <img src="https://skillicons.dev/icons?i=twitter" width="36" height="36" alt="Twitter" />
+        </a><br>
+        <sub><small><b>Twitter</b></small></sub>
+      </td>
+      <td width="70">
+        <a href="https://youtube.com/@Aristos_2">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="36" height="36" alt="YouTube" />
+        </a><br>
+        <sub><small><b>YouTube</b></small></sub>
+      </td>
+      <td width="70">
+        <a href="https://codeforces.com/profile/spb25">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="36" height="36" alt="Codeforces" />
+        </a><br>
+        <sub><small><b>Codeforces</b></small></sub>
+      </td>
+      <td width="70">
+        <a href="https://leetcode.com/spb25">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" height="36" alt="LeetCode" />
+        </a><br>
+        <sub><small><b>LeetCode</b></small></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="center">🔥 GitHub Activity</h3>
 
