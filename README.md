@@ -56,10 +56,10 @@
 <table>
 <tr>
 
+# 🛠️ Tech Stack
+
 <!-- ================= LEFT COLUMN ================= -->
 <td width="50%" valign="top">
-
-# 🛠️ Tech Stack
 
 ### 💻 Languages
 
